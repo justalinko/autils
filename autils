@@ -1,0 +1,5 @@
+#!/bin/bash
+source config.conf
+
+use $AUTILS_FUNC_PATH::io
+
